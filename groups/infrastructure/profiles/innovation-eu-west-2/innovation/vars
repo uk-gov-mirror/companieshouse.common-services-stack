@@ -1,0 +1,3 @@
+environment       = "innovation"
+aws_profile       = "innovation-eu-west-2"
+ec2_key_pair_name = "chs-innovation"
